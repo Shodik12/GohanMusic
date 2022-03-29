@@ -44,14 +44,17 @@
         "ASSISTANT_NAME": {
             "description": "Masukan Username Assistant Bot Anda Tanpa ==> @ <==",
             "required": true
+            "value":"AsistantMusicBot"
         },
         "API_ID": {
             "description": "Masukan APP ID Silahkan Ambil dari my.telegram.org/apps",
             "required": true
+            "value":"11630666"
         },
         "API_HASH": {
             "description": "Masukan API HASH Silahkan Ambil dari my.telegram.org/apps",
             "required": true
+            "value":"aba4df45b2db2e87972b4035725e5db0"
         },
         "SUDO_USERS": {
             "description": "Daftar User ID pengguna dihitung sebagai admin di semua tempat (pemisah menggunakan space)",
