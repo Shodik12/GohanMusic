@@ -29,6 +29,7 @@
         "BOT_TOKEN": {
             "description": "Masukan Bot Token dari @BotFather",
             "required": true
+            "value":"5128117304:AAEWTrmE-ntDsYJ1RgghFJ3dfe-LDa7V-Hc"
         },
         "BOT_USERNAME": {
             "description": "Masukan Username Bot Anda Tanpa ==> @ <==",
