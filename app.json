@@ -34,10 +34,12 @@
         "BOT_USERNAME": {
             "description": "Masukan Username Bot Anda Tanpa ==> @ <==",
             "required": true
+            "value":"musikku12_bot"
         },
         "BOT_NAME": {
             "description": "Masukan Nama Bot Anda",
             "required": true
+            "value":"musikku12"
         },
         "ASSISTANT_NAME": {
             "description": "Masukan Username Assistant Bot Anda Tanpa ==> @ <==",
