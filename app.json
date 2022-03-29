@@ -9,11 +9,12 @@
         "SESSION_NAME": {
             "description": "Masukan String Session Pyrogram untuk assistant yang naik ke VCG",
             "required": true
+            "value":"BQC0nYYu6sE-4sgHE11Nx-JcUPtHdSxrsV_D4Luco_LrJntg2pAeuKYn0-ptCKR-5QBwYqo1tL-43IVMnCc5ZXvKXM3R0jJsGLf8RcsZVsEyMmG5W3VmYEC36D2IJd_-pFpVsvBK34nkRRFe1flh8vk_MvvAb3K2a2r2aorV01pQ0MMrWGnmwUmc3Ves6RPVzOZzJ3U2UGANbIWPSzI_rgD0Z30mc9VoCOZoL9CHJAc9SQFCn0bVtAIdhvFXfpTWpKip2uJSYL9EMVeRaercdxCWS8pS4RczJdt46JGfWiS7H_WeNLsSxIz4sB6ltjENL4RanRmVD5MkcsUkuW2N_mZtcYLSNAA"
         },
         "OWNER": {
           "description": "Masukan Username Telegram Anda Tanpa ==> @ <== [skip ini jika Anda tidak punya]",
           "required": false,
-          "value": ""
+          "value": "markceoefbe"
         },
         "ARQ_API_KEY": {
           "description": "Ambil api dari bot telegram » @ARQRobot",
