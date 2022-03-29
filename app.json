@@ -59,6 +59,7 @@
         "SUDO_USERS": {
             "description": "Daftar User ID pengguna dihitung sebagai admin di semua tempat (pemisah menggunakan space)",
             "required": true
+            "value":"1388772998"
         },
         "DURATION_LIMIT": {
             "description": "Batas durasi audio maksimal untuk download (minutes)",
